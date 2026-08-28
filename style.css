@@ -1,0 +1,26 @@
+ body {
+     background-color: #EAF6F6;
+ }
+
+ hr {
+     border-color: grey;
+     border-style: dotted none none none;
+     width: 5%;
+     border-width: 7px;
+ }
+
+ h1 {
+     color: #66bfbf;
+ }
+
+ h3 {
+     color: #66bfbf;
+ }
+
+ p{
+    width: 60%;
+    line-height: 1.5;
+ }
+ .ul-two{
+    font-size: larger;
+ }
